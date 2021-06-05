@@ -1,0 +1,3 @@
+ Specific table migration command below 
+php artisan make:migration car_models_table 
+here car_models_table is specific table name with table syntex 
